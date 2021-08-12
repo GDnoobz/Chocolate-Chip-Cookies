@@ -1,4 +1,4 @@
-#Ingredients
+# Ingredients
 
 The ingredients that these cookies use are:
 - Butter
@@ -7,3 +7,5 @@ The ingredients that these cookies use are:
 - Salt
 - Chocolate Chips
 - Sugar
+- Vanilla Extract
+- Egg
